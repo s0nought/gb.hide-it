@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 8.467 8.467" xmlns="http://www.w3.org/2000/svg">
+  <path style="stroke:none;stroke-width:.672981;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;fill:#ffde00;fill-opacity:1" d="M1 0h6.467a1 1 45 0 1 1 1v6.467a1 1 135 0 1-1 1H1a1 1 45 0 1-1-1V1a1 1 135 0 1 1-1Z"/>
+  <path style="stroke:none;stroke-width:.81465201;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;fill:#0c0c0d;fill-opacity:1" d="M1.194 1.058a.397.397 45.451 0 1 .393.4v5.55a.4.4 135 0 1-.4.4.397.397 45.451 0 1-.393-.4v-5.55a.4.4 135 0 1 .4-.4z"/>
+  <path style="fill:none;stroke:#0c0c0d;stroke-width:.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M1.323 5.027s1.071-1.652 1.852-1.429c1.184.34.38 3.142 1.587 3.387.905.183 1.588-1.958 1.588-1.958"/>
+  <circle style="stroke:none;stroke-width:.74414;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;fill:#0c0c0d;fill-opacity:1" cx="6.879" cy="3.44" r=".794"/>
+</svg>

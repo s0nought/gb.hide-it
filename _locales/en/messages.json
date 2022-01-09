@@ -1,0 +1,22 @@
+{
+    "extensionDescription":
+    {
+        "message": "Hides content for the games you have added to the list.",
+        "description": "Description of the extension."
+    },
+    "optionsHeader":
+    {
+        "message": "Games List",
+        "description": "Options. Header."
+    },
+    "optionsDescription":
+    {
+        "message": "Mods, Scripts, Sounds etc. for the following games will be hidden on the home page.\n\nTo Add a Game:\n- enter the game title in one of the text fields below,\n- click button \"Save\".\n\nTo Remove a Game:\n- clear the text field with the game title you wish to remove from the list,\n- click button \"Save\".\n\nNotes:\n- You can save up to five games in the list;\n- Empty text fields and duplicates are ignored;\n- Game titles must be from 5 to 100 characters long.\n\nSearch settings:\n- case-insensitive,\n- strict match.",
+        "description": "Options. Description."
+    },
+    "optionsSaveButton":
+    {
+        "message": "Save",
+        "description": "Options. Save button text."
+    }
+}

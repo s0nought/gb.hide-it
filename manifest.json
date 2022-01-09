@@ -1,0 +1,45 @@
+{
+    "author": "s0nought",
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "browser_action": {
+        "default_area": "navbar",
+        "default_icon": "icon.svg",
+        "default_title": "gb.hide-it"
+    },
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "gb.hide-it@s0nought.cat",
+            "update_url": ""
+        }
+    },
+    "default_locale": "en",
+    "description": "__MSG_extensionDescription__",
+    "homepage_url": "https://github.com/s0nought",
+    "icons": {
+        "16": "icon.svg",
+        "32": "icon.svg",
+        "48": "icon.svg",
+        "64": "icon.svg",
+        "80": "icon.svg",
+        "96": "icon.svg",
+        "112": "icon.svg",
+        "128": "icon.svg"
+    },
+    "manifest_version": 2,
+    "name": "gb.hide-it",
+    "options_ui": {
+        "browser_style": false,
+        "open_in_tab": true,
+        "page": "options/options.html"
+    },
+    "permissions": [
+        "storage",
+        "webRequest",
+        "webRequestBlocking",
+        "*://gamebanana.com/*"
+    ],
+    "short_name": "gb.hide-it",
+    "version": "1.0"
+}
