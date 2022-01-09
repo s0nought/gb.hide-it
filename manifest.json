@@ -11,7 +11,7 @@
     "browser_specific_settings": {
         "gecko": {
             "id": "gb.hide-it@s0nought.cat",
-            "update_url": ""
+            "update_url": "https://raw.githubusercontent.com/s0nought/gb.hide-it/master/update.json"
         }
     },
     "default_locale": "en",
