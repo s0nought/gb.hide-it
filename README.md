@@ -1,4 +1,6 @@
-# gb.hide-it
+# DEPRECATED
+
+This extension is no longer supported, please consider using CSS solution instead ([read more](https://gamebanana.com/blogs/19578)).
 
 ## Summary
 An extension for Firefox.
